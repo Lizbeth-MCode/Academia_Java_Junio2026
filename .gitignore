@@ -1,6 +1,33 @@
 # Compiled class file
 *.class
 
+# Carpeta build (Gradle)
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IntelliJ
+.idea/
+*.iml
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración local
+*.local
+
+# Carpeta de compilación (IntelliJ)
+out/
+
+# Carpeta target (Maven)
+target/
+
+# Archivos temporales
+*.tmp
+*.swp
+
 # Log file
 *.log
 
