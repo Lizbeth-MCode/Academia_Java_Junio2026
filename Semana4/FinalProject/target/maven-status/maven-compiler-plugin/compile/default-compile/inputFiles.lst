@@ -1,0 +1,12 @@
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\config\BatchConfig.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\controller\EstudianteController.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\controller\ReporteController.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\FinalProjectApplication.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\model\Estudiante.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\model\EstudianteReporte.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\processor\EstudianteProcessor.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\processor\ReporteEstudianteProcessor.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\repository\EstudianteEntity.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\repository\EstudianteRepository.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\repository\ReporteRepository.java
+D:\Projects\Git\FinalProject\src\main\java\com\academia\batch\service\EstudianteService.java
